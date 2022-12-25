@@ -11,6 +11,8 @@ Hi, I'm an 👨‍💻 Web-Developer and ❤️ working with the following tools
 
 - [Vue.js](https://github.com/vuejs/)
 - [Laravel](https://github.com/laravel/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Other
 
