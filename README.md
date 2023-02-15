@@ -2,19 +2,32 @@
 
 Hi, I'm an 👨‍💻 Web-Developer and ❤️ working with the following tools
 
-## IDEs
+## Languages
 
-- [PhpStorm](https://www.jetbrains.com/phpstorm/)
-- [IntelliJ](https://www.jetbrains.com/idea)
+- PHP
+- JavaScript
+- HTML
+- CSS
 
 ## Frameworks
 
-- [Vue.js](https://github.com/vuejs/)
-- [Laravel](https://github.com/laravel/)
-- [Tailwind CSS](https://tailwindcss.com/)
+- [Laravel](https://laravel.com/)
+- [Vue.js](https://vuejs.org/)
+- [Nuxt](https://nuxt.com/)
 - [Bootstrap](https://getbootstrap.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## Applications
+
+- [PhpStorm](https://www.jetbrains.com/phpstorm/)
+- [IntelliJ](https://www.jetbrains.com/idea)
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+- [Adobe Lightroom](https://www.adobe.com/products/illustrator.html)
 
 ## Other
 
-- [CloudPanel](https://www.cloudpanel.io/) as webhosting control panel
-- [mailcow](https://github.com/mailcow/mailcow-dockerized) for my mailserver
+- [WordPress](https://wordpress.org/)
+- [Firebase](https://firebase.google.com/)
+- [CloudPanel](https://www.cloudpanel.io/)
+- [CapRover](https://caprover.com/)
+- [mailcow](https://github.com/mailcow/mailcow-dockerized)
