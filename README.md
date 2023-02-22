@@ -1,6 +1,6 @@
 # Welcome to BDs GitHub Profile
 
-Hi, I'm an 🇩🇪 Web-Developer and ❤️ working with the following tools
+Hi, I'm an Web-Developer and ❤️ working with the following tools
 
 ## Languages
 
