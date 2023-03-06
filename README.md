@@ -27,7 +27,6 @@ Hi, I'm an Web-Developer and ❤️ working with the following tools
 ## Other
 
 - [WordPress](https://wordpress.org/)
-- [Firebase](https://firebase.google.com/)
 - [CloudPanel](https://www.cloudpanel.io/)
 - [CapRover](https://caprover.com/)
 - [mailcow](https://github.com/mailcow/mailcow-dockerized)
